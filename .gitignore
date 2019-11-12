@@ -5,6 +5,11 @@
 [Bb]uilds/
 [Ll]ogs/
 [Pp]ackages/
+
+#Playmaker
+Assets/Playmaker*
+Assets/Plugins*
+Assets/Gizmos*
 Assets/AssetStoreTools*
 
 # Visual Studio cache directory
