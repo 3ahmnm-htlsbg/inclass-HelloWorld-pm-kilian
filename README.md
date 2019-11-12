@@ -1,21 +1,26 @@
 # inclass-HelloWorld-pm-kilian
 
-Developement Platform: Windows 10  
-Description: 2D project, practicing create unity project locally and  
-on Github, writing a Readme File, importing PLaymaker and updating gitignore  
-with Playmaker ignore.  
-Target Platform: WebGL (refRes: 1280x720)  
+### Developement Platform: 
+Windows 10, Unity version 2019.1.14f1
+
+### Description: 
+
+This project schould teach us:
+* The git/Github worklflow aswell as writing meaningfull Radme Files.
+* Importing and installing Playmaker.
+
+### Target Platform:
+
+WebGL (refRes: 1280x720) 
+
+### Third Party Material:
+
+Playmaker 1.9.0.p9
+
+### Game Control: 
+
+no control 
 
 
-Screenshot: TODO
 
-Game Control: no control  
-
-Third Party Material:  
-Playmaker 1.9.0.p9  
-
-Limitations: TODO  
-Lesson Learned: TODO  
-
-
-Copyright by kilian  
+### Copyright by kilian 
