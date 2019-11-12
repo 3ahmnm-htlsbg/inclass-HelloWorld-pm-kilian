@@ -1,26 +1,23 @@
 # inclass-HelloWorld-pm-kilian
 
-### Developement Platform: 
-Windows 10, Unity version 2019.1.14f1
 
-### Description: 
+### Project Description: 
 
-This project schould teach us:
-* The git/Github worklflow aswell as writing meaningfull Radme Files.
-* Importing and installing Playmaker.
+The aim of this project is to:
++ practice the git/gitHub workflow and writing Readme Files. 
++ installing Playmaker
++ update .gitignore for Playmaker
 
-### Target Platform:
+### Development platform: 
 
-WebGL (refRes: 1280x720) 
+Windows 10, Unity version 2019.1.14f1, Unity2018.3.Playmaker.1.9.0.p9
 
-### Third Party Material:
+### Target platform: 
 
-Playmaker 1.9.0.p9
+WebGL (RefRes: 1280x720 HD-720p)  
 
-### Game Control: 
+### Screenshots:
 
-no control 
-
-
-
-### Copyright by kilian 
+<div>
+<img src = "./Screenshots/inclass-pic-HelloWorld-pm-install-playmaker-kilian.jpg" width = "500">
+</div> 
